@@ -446,8 +446,8 @@ Manage And Balance The Traffic through LoadBalancer
 
 ```
 
-![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/1a1f0813ba45dc0e5dfc071960845053510ccdaf/Screenshot%202025-07-28%20162448.png)
-![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/a1b42db60128cc7ba6f428e013f70ad935e7ea7c/Screenshot%202025-07-28%20162502.png)
-![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/a6cdc80432f83d2789048654c49151ee163313c7/Screenshot%202025-07-28%20162520.png)
-![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/bd3442f1451695ca4091a61241df6e795ca53129/Screenshot%202025-07-28%20164031.png)
-![image alt](https://github.com/atharvasangale7/HostWebSiteViaExecutingScriptSh/blob/bd3442f1451695ca4091a61241df6e795ca53129/Screenshot%202025-07-28%20164050.png)
+![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/256e2eb2f176d8bf991984fe48d134e9b7080b2e/Screenshot%202025-08-27%20103943.png)
+![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/256e2eb2f176d8bf991984fe48d134e9b7080b2e/Screenshot%202025-08-27%20103957.png)
+![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/256e2eb2f176d8bf991984fe48d134e9b7080b2e/Screenshot%202025-08-27%20104015.png)
+![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/256e2eb2f176d8bf991984fe48d134e9b7080b2e/Screenshot%202025-08-27%20104039.png)
+
