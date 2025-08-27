@@ -1,2 +1,2 @@
 # LoadBalancing
-Manage And Balance The Instance through LoadBalancer
+Manage And Balance The Traffic through LoadBalancer
