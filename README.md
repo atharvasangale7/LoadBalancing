@@ -450,4 +450,5 @@ Manage And Balance The Traffic through LoadBalancer
 ![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/256e2eb2f176d8bf991984fe48d134e9b7080b2e/Screenshot%202025-08-27%20103957.png)
 ![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/256e2eb2f176d8bf991984fe48d134e9b7080b2e/Screenshot%202025-08-27%20104015.png)
 ![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/256e2eb2f176d8bf991984fe48d134e9b7080b2e/Screenshot%202025-08-27%20104039.png)
+![image alt](https://github.com/atharvasangale7/LoadBalancing/blob/e007557b8fd65bce8ae50b573e50054503292b7e/Screenshot%202025-08-27%20103921.png)
 
